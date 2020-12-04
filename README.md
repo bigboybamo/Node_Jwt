@@ -2,7 +2,7 @@
 
 <h1>Register and Login Page using Json Web token </h1>
 
-Initialize a new project with npm init -y
+Initialize a new project with npm init -y and install all the modules you would need (i.e Express, bodyparser)
 
 <h1>Register page functionality </h1>
 
